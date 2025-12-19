@@ -1,0 +1,7 @@
+{
+  "name": "Kalkulator IPS Pintar",
+  "description": "Aplikasi penghitung Indeks Prestasi Semester (IPS) yang dilengkapi dengan fitur scan gambar menggunakan AI untuk ekstraksi data mata kuliah secara otomatis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
